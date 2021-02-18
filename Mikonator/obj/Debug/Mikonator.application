@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="file:///C:/Users/Mahesh/Desktop/Coding/Mikonator/Mikonator/Mikonator/publish/Mikonator.application" />
+    <deploymentProvider codebase="file:///D:/Github/Mikonator/Mikonator/publish/Mikonator.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
@@ -21,7 +21,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>UIMQUbc1GOEE6xgUOmAMS7PuFh2zEz98awMqAYei7Es=</dsig:DigestValue>
+        <dsig:DigestValue>SGiiDKO2025UC1C9p0KULxbuRMx5KqW2xjSzMqCVLC8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

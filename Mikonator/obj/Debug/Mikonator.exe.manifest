@@ -50,17 +50,17 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>gMd1LIU+mHHA+JFUqQDOlm7V0M2B0806xr3IqotcV6Y=</dsig:DigestValue>
+        <dsig:DigestValue>tSw6bJhm57DX+oTyqaArhTNUR8OQJx/8V3ZGcZlvVEY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Mikonator.exe.config" size="982">
+  <file name="Mikonator.exe.config" size="962">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>KXTSHzcbkSfN8TYEcp0rFujcol006AKhrE94KAv+/Vo=</dsig:DigestValue>
+      <dsig:DigestValue>Nv/xf4BEyhVLcIKjqQEkzfYsGSFyHyIltdmIucJnQdU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Ncrow-Mega-Pack-1-Access.ico" size="175152">

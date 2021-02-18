@@ -36,14 +36,25 @@ namespace Mikonator
             }
             else
             {
-                MessageBox.Show("When you start the Program for the first time you have to run it as admin");
-                System.Environment.Exit(0);
+                try
+                {
+                    Myglobals.filenamepk = "./icons/pub.cert";
+                    Myglobals.filenamesk = "./icons/priv.cert";
+
+                    RsaFileDemo.LaunchEncryption();
+                }
+                catch
+                {
+                    MessageBox.Show("When you start the Program for the first time you have to run it as admin");
+                    System.Environment.Exit(0);
+                }
+                
 
             }
 
 
 
-            RsaFileDemo.LaunchEncryption();
+            
 
         }
 
