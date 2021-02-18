@@ -58,7 +58,6 @@ C:\Users\Mahesh\Desktop\Coding\Mikonator\Mikonator\Mikonator\obj\Debug\Mikonator
 C:\Users\Mahesh\Desktop\Coding\Mikonator\Mikonator\Mikonator\obj\Debug\Mikonator.application
 C:\Users\Mahesh\Desktop\Coding\Mikonator\Mikonator\Mikonator\obj\Debug\Mikonator.exe
 C:\Users\Mahesh\Desktop\Coding\Mikonator\Mikonator\Mikonator\obj\Debug\Mikonator.pdb
-D:\Github\Mikonator\Mikonator\obj\Debug\Mikoator.csprojAssemblyReference.cache
 D:\Github\Mikonator\Mikonator\obj\Debug\MainWindow.g.cs
 D:\Github\Mikonator\Mikonator\obj\Debug\App.g.cs
 D:\Github\Mikonator\Mikonator\obj\Debug\Mikonator_MarkupCompile.cache
